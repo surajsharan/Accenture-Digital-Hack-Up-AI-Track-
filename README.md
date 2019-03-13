@@ -10,17 +10,14 @@ Given a dataset of past comments and their scores (training dataset), you have t
 ## Data Description
 The dataset has the following columns :
 
-*Column Label*  :*Column Description*
-
-**UID**           :Unique Id
-
-**comment**       :Reply to a parent comment
-
-**date**          :Comment data
-
-**parent_commnet**:The parent comment to which sarcastic comments are made
-
-**score**         :Score on the parent_comment
+| *Column Label*        |  *Column Description*                                     |
+| --------------------- | --------------------------------------------------------- |
+| **UID**               |   Unique Id                                               |
+| **comment**           |   Reply to a parent comment                               |
+| **date**              |   Comment data                                            |
+| **parent_commnet**    |   The parent comment to which sarcastic comments are made |
+| **score**             |   Score on the parent_commen                              |
+    
 
 ### Leaderboard
 Public LB : 8th Rank
