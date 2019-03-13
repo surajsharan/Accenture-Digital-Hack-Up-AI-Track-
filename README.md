@@ -1,5 +1,5 @@
 # Accenture-Digital-Hack-Up-AI-Track-
-Hackathon Organised by Accenture 
+A Digital Hack-Up (AI Track) , Programming challenges in February, 2019 on HackerEarth
 
 
 ## Problem Statement
@@ -10,7 +10,7 @@ Given a dataset of past comments and their scores (training dataset), you have t
 ## Data Description
 The dataset has the following columns :
 
-****Column Label****  :****Column Description****
+*Column Label*  :*Column Description*
 
 **UID**           :Unique Id
 
