@@ -1,4 +1,4 @@
-![title](Digital Hack-Up (AI Track) _ Programming challenges in February, 2019 on HackerEarth.jpg)
+![title](accenture.jpg)
 
 # Accenture-Digital-Hack-Up-AI-Track-
 A Digital Hack-Up (AI Track) , Programming challenges in February, 2019 on HackerEarth
